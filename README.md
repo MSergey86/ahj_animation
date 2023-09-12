@@ -1,3 +1,5 @@
+https://ci.appveyor.com/project/MSergey86/ahj-animation
+
 # Домашнее задание к занятию "9. Анимации и CSS"
 
 Правила сдачи задания:
